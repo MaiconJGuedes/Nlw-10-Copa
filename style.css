@@ -33,7 +33,7 @@ ul {
 body{
     background-color: #121214;
     background-image: var(--bg);
-    background-position: top center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
